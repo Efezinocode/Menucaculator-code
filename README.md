@@ -15,7 +15,7 @@ A simple command-line calculator written in Python.
 ## Run locally
 
 ```bash
-python menucaculator.py
+python menu_calculator.py
 ```
 
 This beginner project practises functions, loops, conditionals, user input, and arithmetic operations.
